@@ -19,7 +19,5 @@ int main(){
     //dellocate memory on heap
     free(ptr);
 
-    printf("%d", *ptr);
-
     return 1;
 }
